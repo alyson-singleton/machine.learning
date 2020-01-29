@@ -27,7 +27,7 @@ Neural Networks
 Clustering, KNN
 
 ### Note on Other Homeworks
-Other homeworks not included here were proof based, written assignements.
+The homeworks not included here were proof based, written assignments.
 
 # Authors
 
